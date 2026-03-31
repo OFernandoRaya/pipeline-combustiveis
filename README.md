@@ -44,6 +44,7 @@ Normalização de colunas mensais via UNNEST
 Performance de consultas no Athena
 
 📈 **Possíveis Evoluções**
+
 Particionamento da tabela por data para otimizar consultas
 Integração com Power BI ou QuickSight
 Automatização do pipeline com AWS Glue ou Airflow
